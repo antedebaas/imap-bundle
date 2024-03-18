@@ -1,9 +1,9 @@
 {
-    "name": "secit-pl/imap-bundle",
+    "name": "antedebaas/imap-bundle",
     "type": "symfony-bundle",
     "description": "PHP-IMAP Symfony integration.",
     "keywords": ["imap", "php-imap", "symfony", "bundle"],
-    "homepage": "https://secit.pl",
+    "homepage": "https://github.com/antedebaas/imap-bundle",
     "license": "MIT",
     "authors": [
         {
